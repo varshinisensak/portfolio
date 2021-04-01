@@ -1,0 +1,12 @@
+.works {
+  flex-grow: 1;
+}
+
+.works h1 {
+  margin-bottom: 20px;
+  background-color: aquamarine;
+  width: 194px;
+}
+.works p {
+  font-size: 20px;
+}
